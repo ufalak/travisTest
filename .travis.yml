@@ -1,7 +1,0 @@
-language: node_js
-node_js:
-- 8
-deploy:
-  provider: heroku
-  api_key: a09e4850-2db0-4b1f-aa4b-4e2606461162
-  app: enigmatic-lake-80642
