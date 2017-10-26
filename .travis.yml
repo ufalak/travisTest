@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+- 8
+deploy:
+  provider: heroku
+  api_key: e39f2693-f9bb-4273-98c0-20eb5bc73e12
+  app: travispru2
